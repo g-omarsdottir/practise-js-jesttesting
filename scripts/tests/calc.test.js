@@ -1,6 +1,6 @@
-// This automatically appeared: const { describe } = require("yargs");
-// This automatically appeared: const { test } = require("picomatch");
-// This automatically appeared: const expectExport = require("expect");
+/**
+ * @jest-environment jsdom
+ */
 
 const addition = require("../calc");
 
